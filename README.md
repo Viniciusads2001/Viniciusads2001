@@ -11,7 +11,7 @@ Atualmente cursando **Tecnólogo em Análise e Desenvolvimento de Sistemas (UNIP
 
 ## Habilidades em desenvolvimento
 
-Python • JavaScript/TypeScript • SQL • Git • Lógica de programação e POO • Excel
+Python • SQL • Git • Lógica de programação e POO • Excel
 
 ## Objetivo
 
